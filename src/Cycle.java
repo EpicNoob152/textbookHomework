@@ -1,4 +1,4 @@
-/** Class: Chocolate
+/** Class: Cycle
  * @author: Jaylan Igbinoba
  * @version: 1.0
  * Course: ITEC 2140 Spring 2023
@@ -6,5 +6,9 @@
  *
  */
 
-package PACKAGE_NAME;public class Chocolate {
+public class Cycle {
+    public static void main(String[] args) {
+
+
+    }
 }
