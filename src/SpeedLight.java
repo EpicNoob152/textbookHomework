@@ -16,6 +16,6 @@ public class SpeedLight{
         //This code above is the values for the thunder and lighting.
         distance = sound * flash; //This is the how-to calculate the distance between the sound and the lighting strike.
 
-        System.out.println(distance);
+        System.out.println(distance + " meters0");
     }
 }

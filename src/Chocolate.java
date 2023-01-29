@@ -6,5 +6,18 @@
  *
  */
 
- public class Chocolate{
+public class Chocolate{
+  public static void main(String[] args){
+   int chocolate;
+   int bags;
+   int new_bags;
+   bags = 9;
+   chocolate = bags * 2;// This is to calculate the total amount of chocolate you have out the bags
+   new_bags = chocolate / 3;// This is to calculate the amount of bags you need to fit the new chocolate bars
+   System.out.println(new_bags + " bags");
+
+
+
+
+  }
 }

@@ -6,5 +6,14 @@
  *
  */
 
-package PACKAGE_NAME ;public class Stamps {
+public class Stamps{
+    public static void main(String[] args){
+        int susan_stamps;
+        int jean_stamps;
+        int difference;
+        susan_stamps = 8;
+        jean_stamps = 40;
+        difference = jean_stamps - susan_stamps; //This is to calculate the difference of the two stamps
+        System.out.println(difference + " stamps");
+    }
 }
