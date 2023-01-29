@@ -13,7 +13,8 @@ public class SpeedLight{
         int distance;
         sound = 340;
         flash =  5;
-        distance = sound * flash; //This is the how-to calculate the distance between the
+        //This code above is the values for the thunder and lighting.
+        distance = sound * flash; //This is the how-to calculate the distance between the sound and the lighting strike.
 
         System.out.println(distance);
     }

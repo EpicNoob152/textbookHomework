@@ -6,5 +6,5 @@
  *
  */
 
-package PACKAGE_NAME;public class Chocolate {
+ public class Chocolate{
 }
