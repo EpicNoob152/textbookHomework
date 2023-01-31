@@ -1,9 +1,9 @@
 /** Class: Chocolate
  * @author: Jaylan Igbinoba
  * @version: 1.0
- * Course: ITEC 2140 Spring 2023
- * Written: January 28, 2023
- *
+ * @Course: ITEC 2140 Spring 2023
+ * @Written: January 28, 2023
+ * @Description: This code will try to calculate the amount of bags you will need to put the chocolate in
  */
 
 public class Chocolate{

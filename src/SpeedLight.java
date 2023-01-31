@@ -1,9 +1,10 @@
-/** Class: SpeedLight
- * @author: Jaylan Igbinoba
- * @version: 1.0
- * Course: ITEC 2140 Spring 2023
- * Written: January 28, 2023
- *
+/**
+ * Class: SpeedLight
+ * @Author: Jaylan Igbinoba
+ * @Version: 1.0
+ * @Course: ITEC 2140 Spring 2023
+ * @Written: January 28, 2023
+ * @Description: This piece of code will try and calculate the distance between thunder and lighting
  */
 
 public class SpeedLight{
@@ -16,6 +17,6 @@ public class SpeedLight{
         //This code above is the values for the thunder and lighting.
         distance = sound * flash; //This is the how-to calculate the distance between the sound and the lighting strike.
 
-        System.out.println(distance + " meters0");
+        System.out.println(distance + " meters");
     }
 }
