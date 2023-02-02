@@ -3,7 +3,7 @@
  * @version: 1.0
  * @Course: ITEC 2140 Spring 2023
  * @Written: January 28, 2023
- * @Description: This code will try find the difference between two types of stamps
+ * @Description: This code will try to find the difference between two types of stamps
  */
 
 public class Stamps{
